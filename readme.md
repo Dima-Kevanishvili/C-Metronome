@@ -3,6 +3,7 @@
 This is a test program I wrote in C as a learning experience.
 
 I wanted to join in my interest towards music and C together and I came up with a simple Metronome
+
 I did three versions.
 1. Using `usleep()` to wait between the beats
 2. Using `clock_gettime()` to continously keep track of time, single threaded
